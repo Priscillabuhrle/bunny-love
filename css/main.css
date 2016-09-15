@@ -84,7 +84,8 @@ span{
 /*seccion 2*/
 .nueva{
 	height: 430px;
-    padding: 2% 1% 2% 2%;
+	padding: 2% 1% 2% 2%;
+	background-color: white;
 }
 .con{
 	padding-bottom: 7%;
@@ -216,7 +217,7 @@ footer{
 		margin-top: 7%;
 	}
 	.caja1 ul li{
-      margin: 3%;
+		margin: 3%;
 	}
 	.ingrid{
 		display: none;
@@ -228,8 +229,6 @@ footer{
 	}
 	.nueva{
 		height: 2050px;
-		background-color: white;
-
 	}
 	.col-5{
 		display: none;
