@@ -44,7 +44,7 @@ span{
 	margin-left: 23.5%;
 	margin-top: 2%;
 }
-.fa{
+.menuescondido{
 	display: none;
 }
 /*seccion 1*/
@@ -239,7 +239,7 @@ footer{
 	.s3-azul{
 		padding: 2%;
 	}
-	.fa{
+	.menuescondido{
 		float: right;
 		color: white;
 		margin-top: 15%;
